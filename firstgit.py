@@ -9,3 +9,6 @@
 # hello
 
 # hello
+
+def m5():
+    pass
